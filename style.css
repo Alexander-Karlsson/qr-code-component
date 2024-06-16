@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Outfit:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d5e1ef;
+  font-family: "outfit", sans-serif;
+  height: 100vh;
+  align-content: center;
+}
+
+.container {
+  background-color: #fff;
+  width: 320px;
+  height: 497px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.qr-qode {
+  width: 288px;
+  border-radius: 10px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 22px;
+}
+
+.instructions {
+  color: #7d889e;
+  font-size: 15px;
+  letter-spacing: 0.19px;
+  font-weight: 400;
+}
