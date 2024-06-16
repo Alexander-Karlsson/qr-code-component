@@ -35,7 +35,8 @@ body {
 .heading {
   font-size: 22px;
   font-weight: bold;
-  margin-bottom: 22px;
+  margin-bottom: 16px;
+  color: #1f314f;
 }
 
 .instructions {
